@@ -1,4 +1,5 @@
 # 开发各种区块链项目，DAPP，Defi，智能合约，钱包，GameFi 链游，Token，NFT，BTC，ETH，TRX，TON，OP，BASE，ARB。
+# 整合链：Ethereum，TRON，TON，Arbitrum，BSC，Base，zkSync，Mode，Linea，Optimism，Polygon，Scroll，Blast
 # 联系方式:
 Telegram: https://t.me/OS_Blockchain
 
